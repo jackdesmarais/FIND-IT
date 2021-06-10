@@ -1,0 +1,3 @@
+# FIND-IT
+Code release for the paper 1. T. Y. Liu, G. J. Knott, D. C. J. Smock, J. J. Desmarais, S. Son, A. Bhuiya, S. Jakhanwal, N. Prywes, S. Agrawal, M. D. de León Derby, N. A. Switz, M. Armstrong, A. R. Harris, E. J. Charles, B. W. Thornton, P. Fozouni, J. Shu, S. I. Stephens, G. R. Kumar, C. Zhao, A. Mok, A. T. Iavarone, A. M. Escajeda, R. McIntosh, S. E. Kim, E. J. Dugan, IGI Testing Consortium, K. S. Pollard, M. X. Tan, M. Ott, D. A. Fletcher, L. F. Lareau, P. D. Hsu, D. F. Savage, J. A. Doudna, Accelerated RNA detection using tandem CRISPR nucleases. medRxiv (2021), doi:10.1101/2021.03.19.21253328.
+This repository contains code related to normailizing exposure in the microfluidic device, Modeling cas -> csm6 transduction, and analyzing biochemical data.
